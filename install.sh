@@ -1,5 +1,5 @@
 sudo apt-get install git linux-headers-generic build-essential dkms
-git clone https://github.com/Mange/rtl8192eu-linux-driver
+#git clone https://github.com/Mange/rtl8192eu-linux-driver
 cd rtl8192eu-linux-driver
 sudo dkms add .
 sudo dkms install rtl8192eu/1.0
