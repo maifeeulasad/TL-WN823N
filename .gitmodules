@@ -1,0 +1,3 @@
+[submodule "rtl8192eu-linux-driver"]
+	path = rtl8192eu-linux-driver
+	url = https://github.com/Mange/rtl8192eu-linux-driver
